@@ -12,6 +12,7 @@
 -->
 
 Just a computer engineering looking for some nice projects and learn a lot at the developers community! 
+Here u will find some repo of my university projects and personal projects! Have fun and a nice trip! 
 
-- Ruby on Rails developer(back and fullstack)
-- React/React-native/Node beginner developer 😄
+- :diamonds:	Ruby on Rails developer(back and fullstack)
+- :atom: React/React-native/Node beginner developer 😄
