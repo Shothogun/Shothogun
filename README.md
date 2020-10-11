@@ -11,8 +11,9 @@
 - ⚡ Fun fact: ...
 -->
 
-Just a computer engineering looking for some nice projects and learn a lot at the developers community! 
-Here u will find some repo of my university projects and personal projects! Have fun and a nice trip! 
+:computer: :zap: :wrench: Just a computer engineering looking for some nice projects and learn a lot at the developers community! 
 
-- :diamonds:	Ruby on Rails developer(back and fullstack)
+Here u will find some of my university projects repo and personal projects! Have fun and a nice trip! :frog:
+
+- :gem:	Ruby on Rails developer(back and fullstack)
 - :atom: React/React-native/Node beginner developer 😄
