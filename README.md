@@ -1,4 +1,4 @@
-### Hey =D! Welcome to my lab my friend!
+### Hey folks =D! Welcome to my lab my friend!
 
 <!--
 **Shothogun/Shothogun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
