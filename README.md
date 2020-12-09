@@ -17,3 +17,5 @@ Here u will find some of my university projects repo and personal projects! Have
 
 - :gem:	Ruby on Rails developer(back and fullstack)
 - :atom: React/React-native/Node beginner developer 😄
+- :snake: PyFanboy
+- :mag: Signal Processing interest
