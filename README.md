@@ -16,6 +16,6 @@
 Here u will find some of my university projects repo and personal projects! Have fun and a nice trip! :frog:
 
 - :gem:	Ruby on Rails developer(back and fullstack)
-- :atom: React/React-native/Node beginner developer 😄
+- :atom: React/React-native/NodeJS/TS beginner developer 😄
 - :snake: PyFanboy
 - :mag: Signal Processing interest
